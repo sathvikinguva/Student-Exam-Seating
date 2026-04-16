@@ -2,5 +2,5 @@
 ![alt text](images/Database%20Design.png)
 
 ---
-### System Flowchart
+### Flowchart
 ![alt text](images/Flowchart.png)
